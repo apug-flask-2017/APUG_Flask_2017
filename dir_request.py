@@ -3,11 +3,11 @@ import re
 from flask import Flask
 
 app = Flask('hello')
-app_stuff = str(dir(app))
+req_stuff = str(dir(app.request_class))
 
-kwords = ["session", "request", "response", "error", "jinja", "temp", "func", "test", "app"]
+kwords = ["form", "url", "view", "error", "json", "head", "data", "cod", "app"]
 
-m = re.findall('.*?,', app_stuff)
+m = re.findall('.*?,', req_stuff)
 
 def mk(m, k):
     for x in m:
@@ -20,4 +20,3 @@ def mk(m, k):
     return
 
 mk(m, kwords)
-
