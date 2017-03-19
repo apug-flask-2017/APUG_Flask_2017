@@ -22,8 +22,7 @@ Yak Shaving:  You want to do A.  But in order to do A, you have to learn B.  But
 The exercise we are about to undertake is not Yak Shaving, though it will sometimes have that feel.  Most of what we will see and do can be presented in a tutorial without any real explanation – monkey see, monkey do style.
 
 
- ![Image of Visible Man]
-(/blob/master/VisibleMan.jpg)
+<img src="https://github.com/apug-flask-2017/APUG_Flask_2017/blob/master/VisibleMan.jpg" alt="Visible Man Image">
 
 
 
