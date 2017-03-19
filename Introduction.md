@@ -1,4 +1,4 @@
-##Visible Flask – Introduction
+## Visible Flask – Introduction
 
 
 This is not a tutorial.  I list multiple tutorials with different styles of development, different package support, and different scope in the Resources section below.
