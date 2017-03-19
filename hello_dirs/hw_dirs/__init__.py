@@ -3,3 +3,5 @@
 from flask import Flask
 
 hwd = Flask(__name__)
+
+#hwd.config['SECRET_KEY'] = 'itsasecret'
