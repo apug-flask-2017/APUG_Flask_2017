@@ -23,7 +23,7 @@ The exercise we are about to undertake is not Yak Shaving, though it will someti
 
 
  ![Image of Visible Man]
-(https://github.com/apug-flask-2017/APUG_Flask_2017/blob/master/VisibleMan.jpg)
+(/blob/master/VisibleMan.jpg)
 
 
 
