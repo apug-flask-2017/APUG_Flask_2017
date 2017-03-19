@@ -14,7 +14,7 @@ Initial Presentation on March 23, 2017
 
 
 
-## Hello World Example (Python package style)
+## Hello World Example (Python package style directories)
 
 
 ## Hello World Extended with Template
