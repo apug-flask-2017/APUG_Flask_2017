@@ -17,7 +17,7 @@ BACKTRACKING is OK.  Ask me to go back a few steps to a previous example.
 
 Maybe not “Best Practices.”  But “Good” or at least “Workable” practices + some deeper understanding that will help you to find “Better Practices.”
 
-Yak Shaving:  You want to do A.  But in order to do A, you have to learn B.  But you cannot learn B without understanding C.  And you cannot do C until you have installed D.  And D depends on E.  And before you can get E, you have to know …  Yak Shaving.
+Yak Shaving:  You want to do A.  But in order to do A, you have to learn B.  But you cannot learn B without understanding C.  And you cannot do C until you have installed D.  And D depends on E.  And before you can get E, you have to know …  [Yak Shaving](https://xkcd.com/1739/).
 
 The exercise we are about to undertake is not Yak Shaving, though it will sometimes have that feel.  Most of what we will see and do can be presented in a tutorial without any real explanation – monkey see, monkey do style.
 
