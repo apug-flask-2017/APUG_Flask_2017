@@ -51,3 +51,11 @@ pip install -r requirements.txt
 
 All Flask apps run correctly
 
+
+## Explore Flask.app using dir()
+
+dir_app.py
+
+dir_request.py
+
+
