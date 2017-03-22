@@ -12,13 +12,42 @@ Initial Presentation on March 23, 2017
 
 ## Hello World Example (single file)
 
-
+PyCharm - hello
 
 ## Hello World Example (Python package style directories)
 
+PyCharm - hello_dirs
 
-## Hello World Extended with Template
+## Virtual Environment Interlude #1
+
+Run run_hello from command line - fails without VE
+
+Set up VE - still does not run
+
+Add Flask package with pip
 
 
 ## Hello, Bob Implemented with a Form
+
+PyCharm - hello_form
+
+## Virtual Environment Interlude #2
+
+pip freeze
+
+pip freeze > hello.txt
+
+pip uninstall flask
+
+pip install -r hello.txt
+
+standard is "requirements.txt"
+
+Remove VE - preserve requirements.txt
+
+Set up VE again
+
+pip install -r requirements.txt
+
+All Flask apps run correctly
 
